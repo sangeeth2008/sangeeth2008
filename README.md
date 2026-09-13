@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm SANGEETH SASIKUMAR K S 👋
 
-<!--
-**sangeeth2008/sangeeth2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 Engineering Student | Robotics & Embedded Systems Enthusiast
 
-Here are some ideas to get you started:
+I love building real-world projects by combining **electronics, programming, robotics, and AI**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Building
+
+- 🤖 Smart Security Patrol Robot
+- 🧠 AI-powered embedded systems
+- 📷 ESP32-CAM vision projects
+- ⚡ ESP32 / ESP32-S3 based projects
+- 🌐 Full-stack web applications
+- 🔌 IoT & electronics projects
+
+## 🛠️ Tech I'm Exploring
+
+### Embedded & Robotics
+`ESP32` `ESP32-S3` `Arduino` `C/C++` `IoT` `Sensors` `Motor Control`
+
+### AI & Software
+`Python` `AI` `Computer Vision` 
+
+### Tools
+`Git` `GitHub` `Altium` `KiCad` `Vercel`
+
+## 📌 Featured Projects
+
+🤖 **Smart Security Patrol Robot**  
+Autonomous security robot using ESP32, sensors, motors and camera-based intelligence.
+
+🌐 **My Portfolio**  
+A personal portfolio showcasing my projects and experiments.
+
+## 📊 GitHub
+
+I'm constantly learning by **building, breaking, debugging, and rebuilding.**
+
+> Learn → Build → Break → Fix → Understand → Build Better 🚀
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: [www.linkedin.com/in/sangeeth-sasikumar-k-s-1b4703422]
+- 🌐 Portfolio: [https://sangeeth2008-github-io.vercel.app/]
+- 📧 Email: [sangeethcherur@gmail.com]
+
+---
+
+⭐ Thanks for visiting my profile!
