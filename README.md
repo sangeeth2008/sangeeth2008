@@ -4,6 +4,11 @@
 
 I love building real-world projects by combining **electronics, programming, robotics, and AI**.
 
+<p align="center">
+  <img src="image.png" width="900" alt="Sangeeth working on a robotics project">
+</p>
+
+
 ## 🚀 What I'm Building
 
 - 🤖 Smart Security Patrol Robot
