@@ -5,7 +5,7 @@
 I love building real-world projects by combining **electronics, programming, robotics, and AI**.
 
 <p align="center">
-  <img src="./image.png" alt="My Robotics Workspace" width="900">
+  <img src="https://raw.githubusercontent.com/sangeeth2008/sangeeth2008/main/image.png" width="900">
 </p>
 
 
