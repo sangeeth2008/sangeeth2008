@@ -5,7 +5,7 @@
 I love building real-world projects by combining **electronics, programming, robotics, and AI**.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sangeeth2008/sangeeth2008/main/image.png" width="900">
+  <img src="https://raw.githubusercontent.com/sangeeth2008/sangeeth2008/main/ChatGPT Image Sep 14, 2026, 09_51_10 PM.png" width="900">
 </p>
 
 
