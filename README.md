@@ -15,7 +15,7 @@ I love building real-world projects by combining **electronics, programming, rob
 - 🧠 AI-powered embedded systems
 - 📷 ESP32-CAM vision projects
 - ⚡ ESP32 / ESP32-S3 based projects
-- 🌐 Full-stack web applications
+- 🌐 Full-stack web applications(vibecoded)
 - 🔌 IoT & electronics projects
 
 ## 🛠️ Tech I'm Exploring
@@ -27,7 +27,7 @@ I love building real-world projects by combining **electronics, programming, rob
 `Python` `AI` `Computer Vision` 
 
 ### Tools
-`Git` `GitHub` `Altium` `KiCad` `Vercel`
+`Git` `GitHub` `Vercel`
 
 ## 📌 Featured Projects
 
